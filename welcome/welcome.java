@@ -1,9 +1,9 @@
-#import java.util.*
+import java.util.*;
 
-public class hello
+public class welcome
 {
 public static void main(String arg[])
 {
-system.out.println("welcome to java");
+System.out.println("welcome to java");
 }
 }
